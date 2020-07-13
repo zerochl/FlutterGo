@@ -14,33 +14,33 @@ Professional things should be done by professional people. The original UI imple
 |        | Flutter |
 | :----: |  :---- |
 | 优点 | 1、使用全新的类似游戏开发的引擎来进行页面渲染，流畅性不错 |
-| advantage | 1.Using a new engine similar to game development to render the page, good fluency |
 |  | 2、可全部使用Flutter也可Native+Flutter结合，比较灵活 |
-|  | 2.It can be used all flutter or native + flutter, which is more flexible |
 |  | 3、动态编译运行速度快 |
+| advantage | 1.Using a new engine similar to game development to render the page, good fluency |
+|  | 2.It can be used all flutter or native + flutter, which is more flexible |
 |  | 3.Dynamic compilation runs fast |
 | 缺点 | 1、万年长谈，兼容性不好 |
-| disadvantages | 1.Long talk, poor compatibility |
 |  | 2、生态不行 |
-|  | 2.Ecology is not good |
 |  | 3、风格与原生迥异 |
-|  | 3.The style is quite different from the original |
 |  | 4、内存占用过多 |
-|  | 4.Too much memory |
 |  | 5、耗电大 |
-|  | 5.High power consumption |
 |  | 6、UI绘制相当吃力 |
+| disadvantages | 1.Long talk, poor compatibility |
+|  | 2.Ecology is not good |
+|  | 3.The style is quite different from the original |
+|  | 4.Too much memory |
+|  | 5.High power consumption |
 |  | 6.UI rendering is quite laborious |
 ## FlutterGo的优缺点（Advantages and disadvantages of flutergo）
 |        | FlutterGo |
 | :----: |  :---- |
 | 优点 | 1、UI回归原生，控件没有任何坑 |
-| advantages | 1.The UI returns to native, and the control has no holes |
 |  | 2、Go语言生态不错，只实现业务逻辑毫无难度 |
-|  | 2.Go language ecology is good, only the implementation of business logic is not difficult |
 |  | 3、支持CPU密集型运算 |
-|  | 3.Support CPU intensive computing |
 |  | 4、上手容易 |
+| advantages | 1.The UI returns to native, and the control has no holes |
+|  | 2.Go language ecology is good, only the implementation of business logic is not difficult |
+|  | 3.Support CPU intensive computing |
 |  | 4.Easy to use |
 | 缺点 | 1、需要原生绘制UI |
 | disadvantages | 1.Need native rendering UI |
