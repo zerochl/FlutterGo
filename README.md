@@ -16,15 +16,15 @@ Professional things should be done by professional people. The original UI imple
 | 优点 | 1、使用全新的类似游戏开发的引擎来进行页面渲染，流畅性不错 |
 |  | 2、可全部使用Flutter也可Native+Flutter结合，比较灵活 |
 |  | 3、动态编译运行速度快 |
-| advantage | 1.Using a new engine similar to game development to render the page, good fluency |
-|  | 2.It can be used all flutter or native + flutter, which is more flexible |
-|  | 3.Dynamic compilation runs fast |
 | 缺点 | 1、万年长谈，兼容性不好 |
 |  | 2、生态不行 |
 |  | 3、风格与原生迥异 |
 |  | 4、内存占用过多 |
 |  | 5、耗电大 |
 |  | 6、UI绘制相当吃力 |
+| advantage | 1.Using a new engine similar to game development to render the page, good fluency |
+|  | 2.It can be used all flutter or native + flutter, which is more flexible |
+|  | 3.Dynamic compilation runs fast |
 | disadvantages | 1.Long talk, poor compatibility |
 |  | 2.Ecology is not good |
 |  | 3.The style is quite different from the original |
@@ -38,11 +38,11 @@ Professional things should be done by professional people. The original UI imple
 |  | 2、Go语言生态不错，只实现业务逻辑毫无难度 |
 |  | 3、支持CPU密集型运算 |
 |  | 4、上手容易 |
+| 缺点 | 1、需要原生绘制UI |
 | advantages | 1.The UI returns to native, and the control has no holes |
 |  | 2.Go language ecology is good, only the implementation of business logic is not difficult |
 |  | 3.Support CPU intensive computing |
 |  | 4.Easy to use |
-| 缺点 | 1、需要原生绘制UI |
 | disadvantages | 1.Need native rendering UI |
 ## 对比总结（Comparative summary）
 总得来讲，让原生来实现UI是最正确的事，业务逻辑按照MVP开发模式使用GoLang来实现完全可取，期待各位的加入
